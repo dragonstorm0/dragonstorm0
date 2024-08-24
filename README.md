@@ -46,6 +46,5 @@
 
 [website]: http://testdragon12.000webhostapp.com
 [twitter]: https://twitter.com/mishra_hars
-[instagram]: https://instagram.com/dragon_storm__
-[linkedin]: https://linkedin.com/in/dragon-storm
-[webdevplaylist]: https://linkedin.com/in/dragon-storm
+[instagram]: https://instagram.com/aayush.k.mishra
+[linkedin]: https://linkedin.com/in/aayushkmishra
